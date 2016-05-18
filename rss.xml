@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SouthCrest LifeGroups]]></title>
+        <description><![CDATA[SouthCrest LifeGroups]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 16:49:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SouthCrest Church]]></title>
+            <description><![CDATA[<article><h1>SouthCrest Church</h1><p>LifeGroups at SouthCrest are designed to help everyone grow in their relationship with Christ (UP), live connected with other believers (IN), and reach out to the local community (OUT). LifeGroups aren't just something we do at SouthCrest. It's who we are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d90d1f36f8a0ef197d37695ae6736db725e0ea0c.jpg"></article>]]></description>
+            <link>http://southcrest.church/</link>
+            <guid isPermaLink="false">444eeb96-e22b-494e-8841-57bab95386b9</guid>
+            <pubDate>Wed, 18 May 2016 16:48:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
